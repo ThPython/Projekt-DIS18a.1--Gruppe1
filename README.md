@@ -2,3 +2,16 @@
 Linked Open Data und Knowledge Graphs
 Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
                     
+Projektbeschreibung:
+
+Projektziel:
+
+Daten:
+
+Teams:
+
+
+Implementierung:
+
+Anhang
+  - Archiv und Glossar
