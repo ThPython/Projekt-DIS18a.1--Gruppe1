@@ -13,7 +13,7 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 **Aufbau des Systems und Daten: jedes Team für sich, bitte! 
 
 **Teams:
-(.txt) Installationsanleitung Yasin, Installationsanteilung inkl. Abhängigkeiten
+(.txt) Installationsanleitung: pip install etc. Yasin, Installationsanteilung inkl. Abhängigkeiten
 
 **Implementierung:
 
