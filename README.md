@@ -4,16 +4,16 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
-Projektbeschreibung:
+**Projektbeschreibung:
 
-Projektziel:
+**Projektziel:
 
-Daten:
+**Daten:
 
-Teams:
+**Teams:
+(.txt) Installationsanleitung
 
+**Implementierung:
 
-Implementierung:
-
-Anhang
+**Anhang
   - Archiv und Glossar
