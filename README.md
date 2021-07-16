@@ -4,16 +4,20 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
-**Projektbeschreibung:
+**Projektbeschreibung und Projektziel: Burg und Luca
 
-**Projektziel:
+**Vorgehensweise: Aschraf 
 
-**Daten:
+**Übersichtsgraphik
+
+**Aufbau des Systems und Daten: jedes Team für sich, bitte! 
 
 **Teams:
-(.txt) Installationsanleitung Yasin
+(.txt) Installationsanleitung Yasin, Installationsanteilung inkl. Abhängigkeiten
 
 **Implementierung:
 
-**Anhang
+**Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist!
+
+**Anhang ???
   - Archiv und Glossar
