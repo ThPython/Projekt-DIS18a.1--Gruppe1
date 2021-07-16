@@ -8,16 +8,15 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 
 **Vorgehensweise: Aschraf 
 
-**Übersichtsgraphik
+**Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
 
-**Aufbau des Systems und Daten: jedes Team für sich, bitte! 
+**Aufbau des Systems (Implemnetierung) und Daten: für Recommeder und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 
 **Teams:
-(.txt) Installationsanleitung: pip install etc. Yasin, Installationsanteilung inkl. Abhängigkeiten
+(.txt) Installationsanleitung: Gephi und Recommender. pip install etc. Yasin und Eazy, Installationsanteilung inkl. Abhängigkeiten
 
-**Implementierung:
 
-**Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist!
+**Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
-**Anhang ???
+**Anhang ??? notwendig?
   - Archiv und Glossar
