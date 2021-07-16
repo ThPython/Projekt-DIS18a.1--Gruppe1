@@ -11,7 +11,7 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 **Daten:
 
 **Teams:
-(.txt) Installationsanleitung
+(.txt) Installationsanleitung Yasin
 
 **Implementierung:
 
