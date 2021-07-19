@@ -15,6 +15,11 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 **Teams:
 (.txt) Installationsanleitung: Gephi und Recommender. pip install etc. Yasin und Eazy, Installationsanteilung inkl. Abhängigkeiten
 
+To install all required  python packages, execute
+```
+pip install -r requirements.txt
+```
+
 
 **Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
