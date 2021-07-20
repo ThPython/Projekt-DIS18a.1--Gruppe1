@@ -24,8 +24,28 @@ test test
 
 ## Hardware and Software Instructions
 
+This code was tested on a system with the following specifications:
+
+- operating system: Ubuntu 16.04.6 LTS
+- CPU: Intel Xeon Silver 4110
+- memory (RAM): 125GB
+- disk storage: 500GB
+- GPU: 1x NVIDIA Titan Xp
+
+The main software requirements are Python 3.7
+
 
 ## Recommender System (bitte ab hier)
+
+This code was tested on a system with the following specifications:
+
+- operating system: ...
+- CPU: ...
+- memory (RAM): ...
+- disk storage: ...
+- GPU: ...
+
+The main software requirements are Python...
 
 ## Hardware and Software Instructions
 
