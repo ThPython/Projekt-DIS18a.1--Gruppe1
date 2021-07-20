@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages-Project_DIS18a.1_Group1_TH Köln - University of Applied Sciences_SS2021
+## Welcome to our GitHub Page
+## Project_DIS18a.1_Group1_TH Köln
+## University of Applied Sciences_SS2021
 
 Editor: [editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/edit/gh-pages/index.md)
 
