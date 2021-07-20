@@ -5,24 +5,15 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
 ## Projektbeschreibung und Projektziel:
-test test
-
-
-## Vorgehensweise: Aschraf 
-
-
-## Data Preparation Instructions
-
-
+Vorgehensweise: Aschraf 
+Data Preparations Instructions
 ## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
 
 
 
 ## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
-
-## Gephi (bitte hier)
-
-## Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
+Gephi (bitte hier)
+Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
 
 This code was tested on a system with the following specifications:
 
@@ -37,6 +28,9 @@ The main software requirements are Python 3.7
 
 ## Recommender System (bitte ab hier)
 
+Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
+
+
 This code was tested on a system with the following specifications:
 
 - operating system: ...
@@ -47,7 +41,6 @@ This code was tested on a system with the following specifications:
 
 The main software requirements are Python...
 
-## Hardware and Software Instructions
 
 
 ## Team: Hardware and Software Requirements
