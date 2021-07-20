@@ -7,8 +7,6 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 ## Projektbeschreibung und Projektziel:
 Vorgehensweise: Aschraf 
 Data Preparations Instructions
-## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
-
 
 
 ## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
@@ -56,3 +54,8 @@ pip install -r requirements.txt
 
 ## Anhang ??? notwendig?
   - Archiv und Glossar
+
+## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
+
+
+
