@@ -19,7 +19,6 @@ The goal was to design and document the work in such a way that it could be reus
 Vorgehensweise: Aschraf, bitte hier einfügen.
 Data Preparations Instructions
 
-
 ## Structure of the system (implementation) and data: 
 Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen oder zumindest sinngemäß ähnliches eintragen.
 
