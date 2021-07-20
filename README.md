@@ -12,7 +12,7 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 
 **Aufbau des Systems (Implemnetierung) und Daten: für Recommeder und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 
-**Teams:
+**Teams:Hardware and Software Requirements
 (.txt) Installationsanleitung: Gephi und Recommender. pip install etc. Yasin und Eazy, Installationsanteilung inkl. Abhängigkeiten
 
 To install all required  python packages, execute
