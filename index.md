@@ -9,15 +9,20 @@ Editor: [editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1
 
 ## Project description and project goal:
 
-Proceeding: Aschraf 
-Data Preparations Instructions
-## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
+In the course of our studies in Data and Information Science at the Th Köln, we created the following project in the summer semester of 2020: DIS - Project "Linked Open Data and Knowledge Graphs". 
+Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
+Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on the same director and the same genre.
 
+The goal was to design and document the work in such a way that it could be reused and further developed.
+
+
+Vorgehensweise: Aschraf, bitte hier einfügen.
+Data Preparations Instructions
 
 
 ## Structure of the system (implementation) and data: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
-Gephi (bitte hier)
-Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
+Gephi (Ismail und Gregory)
+Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen oder zumindest sinngemäß ähnliches eintragen.
 
 This code was tested on a system with the following specifications:
 
@@ -58,8 +63,13 @@ pip install -r requirements.txt
 
 ## Outlook: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
-## Appendix ??? notwendig?
+## Anhang ??? notwendig?
   - Archiv und Glossar
+
+## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
+
+
+
 
 
 
