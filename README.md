@@ -9,7 +9,7 @@ test test
 
 ## Data Preparation Instructions
 
-##  Vorgehensweise: Aschraf 
+## Vorgehensweise: Aschraf 
 
 ## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
 
@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 ## Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
-### Anhang ??? notwendig?
+## Anhang ??? notwendig?
   - Archiv und Glossar
