@@ -1,0 +1,500 @@
+movieId,Title,Genre,Director
+112852,Guardians of the Galaxy,Action,James Gunn
+94864,Prometheus,Adventure,Ridley Scott
+166534,Split,Horror,M. Night Shyamalan
+155923,Sing,Animation,Christophe Lourdelet
+135536,Suicide Squad,Action,David Ayer
+166918,The Great Wall,Action,Yimou Zhang
+164909,La La Land,Comedy,Damien Chazelle
+171881,Mindhorn,Comedy,Sean Foley
+169900,The Lost City of Z,Action,James Gray
+65567,Passengers,Adventure,Morten Tyldum
+135143,Fantastic Beasts and Where to Find Them,Adventure,David Yates
+166643,Hidden Figures,Biography,Theodore Melfi
+73141,Moana,Animation,Ron Clements
+164821,Colossal,Action,Nacho Vigalondo
+135436,The Secret Life of Pets,Animation,Chris Renaud
+163645,Hacksaw Ridge,Biography,Mel Gibson
+160438,Jason Bourne,Action,Paul Greengrass
+165551,Lion,Biography,Garth Davis
+164179,Arrival,Drama,Denis Villeneuve
+77896,Gold,Adventure,Stephen Gaghan
+165549,Manchester by the Sea,Drama,Kenneth Lonergan
+171925,Hounds of Love,Crime,Ben Young
+165141,Trolls,Animation,Walt Dohrn
+135567,Independence Day: Resurgence,Action,Roland Emmerich
+58661,Dead Awake,Horror,Phillip Guzman
+161580,Bad Moms,Comedy,Jon Lucas
+167370,Assassin's Creed,Action,Justin Kurzel
+167018,Why Him?,Comedy,John Hamburg
+149334,Nocturnal Animals,Drama,Tom Ford
+122924,X-Men: Apocalypse,Action,Bryan Singer
+122904,Deadpool,Action,Tim Miller
+168498,Resident Evil: The Final Chapter,Action,Paul W.S. Anderson
+122920,Captain America: Civil War,Action,Anthony Russo
+109487,Interstellar,Adventure,Christopher Nolan
+115927,Doctor Strange,Action,Scott Derrickson
+162350,The Magnificent Seven,Action,Antoine Fuqua
+158872,Sausage Party,Animation,Greg Tiernan
+162414,Moonlight,Drama,Barry Jenkins
+166946,The Founder,Biography,John Lee Hancock
+171157,Lowriders,Drama,Ricardo de Montreuil
+86880,Pirates of the Caribbean: On Stranger Tides,Action,Rob Marshall
+166568,Miss Sloane,Drama,John Madden
+1754,Fallen,Adventure,Scott Hicks
+135569,Star Trek Beyond,Action,Justin Lin
+177469,The Last Face,Drama,Sean Penn
+122886,Star Wars: Episode VII - The Force Awakens,Action,J.J. Abrams
+166558,Underworld: Blood Wars,Action,Anna Foerster
+5206,Mother's Day,Comedy,Garry Marshall
+115149,John Wick,Action,Chad Stahelski
+130219,The Dark Knight,Action,Christopher Nolan
+143367,Silence,Adventure,Martin Scorsese
+161634,Don't Breathe,Crime,Fede Alvarez
+152017,Me Before You,Drama,Thea Sharrock
+169756,Their Finest,Comedy,Lone Scherfig
+160980,Sully,Biography,Clint Eastwood
+136864,Batman v Superman: Dawn of Justice,Action,Zack Snyder
+165603,The Autopsy of Jane Doe,Horror,André Øvredal
+162602,The Girl on the Train,Crime,Tate Taylor
+125916,Fifty Shades of Grey,Drama,Sam Taylor-Johnson
+119145,Kingsman: The Secret Service,Action,Matthew Vaughn
+167544,Patriots Day,Drama,Peter Berg
+122882,Mad Max: Fury Road,Action,George Miller
+173273,Wakefield,Drama,Robin Swicord
+162598,Deepwater Horizon,Action,Peter Berg
+163955,The Promise,Drama,Terry George
+164981,Allied,Action,Robert Zemeckis
+164175,A Monster Calls,Drama,J.A. Bayona
+165937,Collateral Beauty,Drama,David Frankel
+152081,Zootopia,Animation,Byron Howard
+53125,Pirates of the Caribbean: At World's End,Action,Gore Verbinski
+68157,Inglourious Basterds,Adventure,Quentin Tarantino
+45722,Pirates of the Caribbean: Dead Man's Chest,Action,Gore Verbinski
+160080,Ghostbusters,Action,Paul Feig
+79132,Inception,Action,Christopher Nolan
+158966,Captain Fantastic,Comedy,Matt Ross
+112556,Gone Girl,Crime,David Fincher
+117529,Jurassic World,Action,Colin Trevorrow
+166532,Live by Night,Crime,Ben Affleck
+72998,Avatar,Action,James Cameron
+128360,The Hateful Eight,Crime,Quentin Tarantino
+162606,The Accountant,Action,Gavin O'Connor
+104879,Prisoners,Crime,Denis Villeneuve
+122890,Warcraft,Action,Duncan Jones
+161131,War Dogs,Comedy,Todd Phillips
+122892,Avengers: Age of Ultron,Action,Joss Whedon
+158238,The Nice Guys,Action,Shane Black
+139016,The Void,Horror,Jeremy Gillespie
+169764,Personal Shopper,Drama,Olivier Assayas
+2143,Legend,Biography,Brian Helgeland
+86332,Thor,Action,Kenneth Branagh
+134130,The Martian,Adventure,Ridley Scott
+138036,The Man from U.N.C.L.E.,Action,Guy Ritchie
+161582,Hell or High Water,Crime,David Mackenzie
+141765,The Comedian,Comedy,Taylor Hackford
+160563,The Legend of Tarzan,Action,David Yates
+167674,All We Had,Drama,Katie Holmes
+115713,Ex Machina,Drama,Alex Garland
+168288,The Belko Experiment,Action,Greg McLean
+105844,12 Years a Slave,Biography,Steve McQueen
+173139,The Bad Batch,Romance,Ana Lily Amirpour
+51662,300,Action,Zack Snyder
+88125,Harry Potter and the Deathly Hallows: Part 2,Adventure,David Yates
+166492,Office Christmas Party,Comedy,Josh Gordon
+155064,The Neon Demon,Horror,Nicolas Winding Refn
+167392,Dangal,Action,Nitesh Tiwari
+152077,10 Cloverfield Lane,Drama,Dan Trachtenberg
+157296,Finding Dory,Animation,Andrew Stanton
+162600,Miss Peregrine's Home for Peculiar Children,Adventure,Tim Burton
+108190,Divergent,Adventure,Neil Burger
+170973,Boyka: Undisputed IV,Action,Todor Chapkanov
+137857,The Jungle Book,Adventure,Jon Favreau
+112370,Transformers: Age of Extinction,Action,Michael Bay
+160954,Nerve,Adventure,Henry Joost
+60397,Mamma Mia!,Comedy,Phyllida Lloyd
+139385,The Revenant,Adventure,Alejandro González Iñárritu
+166705,Fences,Drama,Denzel Washington
+8580,Into the Woods,Adventure,Rob Marshall
+158528,The Shallows,Drama,Jaume Collet-Serra
+112552,Whiplash,Drama,Damien Chazelle
+55820,No Country for Old Men,Crime,Ethan Coen
+121618,The Great Gatsby,Drama,Baz Luhrmann
+74458,Shutter Island,Mystery,Martin Scorsese
+165087,Brimstone,Mystery,Martin Koolhoven
+68358,Star Trek,Action,J.J. Abrams
+77206,Diary of a Wimpy Kid,Comedy,Thor Freudenthal
+140174,Room,Drama,Lenny Abrahamson
+99114,Django Unchained,Drama,Quentin Tarantino
+161922,The Edge of Seventeen,Comedy,Kelly Fremon Craig
+60684,Watchmen,Action,Zack Snyder
+54503,Superbad,Comedy,Greg Mottola
+3587,Inferno,Action,Ron Howard
+158830,The BFG,Adventure,Steven Spielberg
+91500,The Hunger Games,Adventure,Gary Ross
+155830,White Girl,Drama,Elizabeth Wood
+139644,Sicario,Action,Denis Villeneuve
+170799,Twin Peaks: The Missing Pieces,Drama,David Lynch
+103228,Pacific Rim,Action,Guillermo del Toro
+88163,Crazy,Comedy,Glenn Ficarra
+79702,Scott Pilgrim vs. the World,Action,Edgar Wright
+51255,Hot Fuzz,Action,Edgar Wright
+132161,Mine,Thriller,Fabio Guaglione
+169992,Free Fire,Action,Ben Wheatley
+111362,X-Men: Days of Future Past,Action,Bryan Singer
+165347,Jack Reacher: Never Go Back,Action,Edward Zwick
+5796,Casino Royale,Action,Martin Campbell
+1791,Twilight,Drama,Catherine Hardwicke
+159093,Now You See Me 2,Action,Jon M. Chu
+131796,Woman in Gold,Biography,Simon Curtis
+138210,13 Hours,Action,Michael Bay
+136020,Spectre,Action,Sam Mendes
+115569,Nightcrawler,Crime,Dan Gilroy
+162578,Kubo and the Two Strings,Animation,Travis Knight
+167174,Beyond the Gates,Adventure,Jackson Stewart
+106920,Her,Drama,Spike Jonze
+75395,Frozen,Animation,Chris Buck
+132046,Tomorrowland,Action,Brad Bird
+112623,Dawn of the Planet of the Apes,Action,Matt Reeves
+61132,Tropic Thunder,Action,Ben Stiller
+159858,The Conjuring 2,Horror,James Wan
+122900,Ant-Man,Action,Peyton Reed
+162590,Bridget Jones's Baby,Comedy,Sharon Maguire
+1022,Cinderella,Drama,Kenneth Branagh
+171869,Realive,Sci-Fi,Mateo Gil
+64754,Love,Drama,Gaspar Noé
+163931,Billy Lynn's Long Halftime Walk,Drama,Ang Lee
+128838,Crimson Peak,Drama,Guillermo del Toro
+88129,Drive,Crime,Nicolas Winding Refn
+134393,Trainwreck,Comedy,Judd Apatow
+162592,The Light Between Oceans,Drama,Derek Cianfrance
+176365,Below Her Mouth,Drama,April Mullen
+142488,Spotlight,Crime,Tom McCarthy
+134172,Morgan,Horror,Luke Scott
+89774,Warrior,Action,Gavin O'Connor
+88140,Captain America: The First Avenger,Action,Joe Johnston
+140860,Hacker,Crime,Akan Satayev
+55247,Into the Wild,Adventure,Sean Penn
+116797,The Imitation Game,Biography,Morten Tyldum
+160271,Central Intelligence,Action,Rawson Marshall Thurber
+111759,Edge of Tomorrow,Action,Doug Liman
+167640,A Cure for Wellness,Drama,Gore Verbinski
+157699,Snowden,Biography,Oliver Stone
+59315,Iron Man,Action,Jon Favreau
+156605,Paterson,Comedy,Jim Jarmusch
+86833,Bridesmaids,Comedy,Paul Feig
+164367,The Girl with All the Gifts,Drama,Colm McCarthy
+132796,San Andreas,Action,Brad Peyton
+101285,Spring Breakers,Drama,Harmony Korine
+53996,Transformers,Action,Michael Bay
+27773,Old Boy,Action,Spike Lee
+106072,Thor: The Dark World,Action,Alan Taylor
+152063,Gods of Egypt,Action,Alex Proyas
+110102,Captain America: The Winter Soldier,Action,Anthony Russo
+167636,Monster Trucks,Action,Chris Wedge
+171439,A Dark Song,Drama,Liam Gavin
+76251,Kick-Ass,Action,Matthew Vaughn
+142509,Hardcore Henry,Action,Ilya Naishuller
+45517,Cars,Animation,John Lasseter
+121231,It Follows,Horror,David Robert Mitchell
+104211,We're the Millers,Comedy,Rawson Marshall Thurber
+162738,American Honey,Drama,Andrea Arnold
+133771,The Lobster,Comedy,Yorgos Lanthimos
+79057,Predators,Action,Nimród Antal
+111659,Maleficent,Action,Robert Stromberg
+167986,Rupture,Horror,Steven Shainberg
+166544,A Kind of Murder,Crime,Andy Goddard
+48304,Apocalypto,Action,Mel Gibson
+111781,Mission: Impossible - Rogue Nation,Action,Christopher McQuarrie
+166486,Jackie,Biography,Pablo Larraín
+135643,The Disappointments Room,Drama,D.J. Caruso
+25825,Fury,Action,David Ayer
+122470,Inside Out,Animation,Pete Docter
+172573,Rock Dog,Animation,Ash Brannon
+120799,Terminator Genisys,Action,Alan Taylor
+74530,Percy Jackson & the Olympians: The Lightning Thief,Adventure,Chris Columbus
+145638,Les Misérables,Drama,Tom Hooper
+48774,Children of Men,Drama,Alfonso Cuarón
+166788,20th Century Women,Comedy,Mike Mills
+134368,Spy,Action,Paul Feig
+140715,Straight Outta Compton,Biography,F. Gary Gray
+110553,The Amazing Spider-Man 2,Action,Marc Webb
+94018,Battleship,Action,Peter Berg
+88744,Rise of the Planet of the Apes,Action,Rupert Wyatt
+129855,Lights Out,Horror,David F. Sandberg
+171689,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Drama,Joseph Cedar
+81591,Black Swan,Drama,Darren Aronofsky
+117123,Dear White People,Comedy,Justin Simien
+159690,Teenage Mutant Ninja Turtles: Out of the Shadows,Action,Dave Green
+142074,Knock Knock,Drama,Eli Roth
+151739,Dirty Grandpa,Comedy,Dan Mazer
+97752,Cloud Atlas,Drama,Tom Tykwer
+68319,X-Men Origins: Wolverine,Action,Gavin Hood
+139445,Satanic,Horror,Jeffrey G. Hunt
+96079,Skyfall,Action,Sam Mendes
+93510,21 Jump Street,Action,Phil Lord
+156387,Sing Street,Comedy,John Carney
+132062,Ballerina,Animation,Eric Summer
+101864,Oblivion,Action,Joseph Kosinski
+112138,22 Jump Street,Action,Phil Lord
+51540,Zodiac,Crime,David Fincher
+102903,Now You See Me,Crime,Louis Leterrier
+73017,Sherlock Holmes,Action,Guy Ritchie
+53519,Death Proof,Thriller,Quentin Tarantino
+141749,The Danish Girl,Biography,Tom Hooper
+1566,Hercules,Action,Brett Ratner
+85510,Sucker Punch,Action,Zack Snyder
+165103,Keeping Up with the Joneses,Action,Greg Mottola
+113345,Jupiter Ascending,Action,Lana Wachowski
+8241,Masterminds,Action,Jared Hess
+4976,Iris,Thriller,Jalil Lespert
+96588,Pitch Perfect,Comedy,Jason Moore
+156609,Neighbors 2: Sorority Rising,Comedy,Nicholas Stoller
+174017,The Exception,Drama,David Leveaux
+103042,Man of Steel,Action,Zack Snyder
+157274,The Choice,Drama,Ross Katz
+160569,Ice Age: Collision Course,Animation,Mike Thurmeier
+161127,The Infiltrator,Biography,Brad Furman
+56782,There Will Be Blood,Drama,Paul Thomas Anderson
+107069,Lone Survivor,Action,Peter Berg
+74946,She's Out of My League,Comedy,Jim Field Smith
+116799,Inherent Vice,Comedy,Paul Thomas Anderson
+135965,Alice Through the Looking Glass,Adventure,James Bobin
+164939,Vincent N Roxxy,Crime,Gary Michael Schultz
+148956,How to Be Single,Comedy,Christian Ditter
+118696,The Hobbit: The Battle of the Five Armies,Adventure,Peter Jackson
+54001,Harry Potter and the Order of the Phoenix,Adventure,David Yates
+107406,Snowpiercer,Action,Bong Joon Ho
+148172,The 5th Wave,Action,J Blakeson
+47382,Step Up,Crime,Anne Fletcher
+169256,Lovesong,Drama,So Yong Kim
+62849,RocknRolla,Action,Guy Ritchie
+90405,In Time,Action,Andrew Niccol
+135532,The Last Witch Hunter,Action,Breck Eisner
+141004,Victor Frankenstein,Drama,Paul McGuigan
+167732,A Street Cat Named Bob,Biography,Roger Spottiswoode
+141866,Green Room,Crime,Jeremy Saulnier
+120637,Blackhat,Crime,Michael Mann
+164200,Storks,Animation,Nicholas Stoller
+114662,American Sniper,Action,Clint Eastwood
+106100,Dallas Buyers Club,Biography,Jean-Marc Vallée
+98154,Lincoln,Biography,Steven Spielberg
+8158,Rush,Action,Ron Howard
+159447,Before I Wake,Drama,Mike Flanagan
+97921,Silver Linings Playbook,Comedy,David O. Russell
+172617,Tracktown,Drama,Alexi Pappas
+111921,The Fault in Our Stars,Drama,Josh Boone
+111617,Blended,Comedy,Frank Coraci
+96610,Looper,Action,Rian Johnson
+103339,White House Down,Action,Roland Emmerich
+1030,Pete's Dragon,Adventure,David Lowery
+52722,Spider-Man 3,Action,Sam Raimi
+150106,The Three Musketeers,Action,Paul W.S. Anderson
+54259,Stardust,Adventure,Matthew Vaughn
+106916,American Hustle,Crime,David O. Russell
+71205,Jennifer's Body,Comedy,Karyn Kusama
+86882,Midnight in Paris,Comedy,Woody Allen
+169760,Lady Macbeth,Drama,William Oldroyd
+140928,Joy,Drama,David O. Russell
+145150,The Dressmaker,Comedy,Jocelyn Moorhouse
+159193,Café Society,Comedy,Woody Allen
+130490,Insurgent,Adventure,Robert Schwentke
+119655,Seventh Son,Action,Sergei Bodrov
+117176,The Theory of Everything,Biography,James Marsh
+102123,This Is the End,Comedy,Evan Goldberg
+104374,About Time,Comedy,Richard Curtis
+60756,Step Brothers,Comedy,Adam McKay
+130052,Clown,Horror,Jon Watts
+102445,Star Trek Into Darkness,Action,J.J. Abrams
+71535,Zombieland,Adventure,Ruben Fleischer
+143859,Hail,Comedy,Ethan Coen
+63082,Slumdog Millionaire,Drama,Danny Boyle
+174443,American Wrestler: The Wizard,Drama,Alex Ranarivelo
+1287,Ben-Hur,Action,Timur Bekmambetov
+169902,Sleight,Action,J.D. Dillard
+8862,Criminal,Action,Ariel Vromen
+60072,Wanted,Action,Timur Bekmambetov
+155659,Florence Foster Jenkins,Biography,Stephen Frears
+167488,Collide,Action,Eran Creevy
+136018,Black Mass,Biography,Scott Cooper
+146656,Creed,Drama,Ryan Coogler
+159415,Swiss Army Man,Adventure,Dan Kwan
+112897,The Expendables 3,Action,Patrick Hughes
+115122,What We Do in the Shadows,Comedy,Jemaine Clement
+139642,Southpaw,Drama,Antoine Fuqua
+1798,Hush,Horror,Mike Flanagan
+143385,Bridge of Spies,Drama,Steven Spielberg
+108932,The Lego Movie,Animation,Phil Lord
+1797,Everest,Action,Baltasar Kormákur
+135137,Pixels,Action,Chris Columbus
+3034,Robin Hood,Action,Ridley Scott
+93363,John Carter,Action,Andrew Stanton
+155820,Keanu,Action,Peter Atencio
+136562,Steve Jobs,Biography,Danny Boyle
+42548,Whisky Galore,Comedy,Gillies MacKinnon
+104218,Grown Ups 2,Comedy,Dennis Dugan
+132480,The Age of Adaline,Drama,Lee Toland Krieger
+71668,Couples Retreat,Comedy,Peter Billingsley
+135885,Absolutely Anything,Comedy,Terry Jones
+95449,Magic Mike,Comedy,Steven Soderbergh
+135887,Minions,Animation,Kyle Balda
+172459,The Black Room,Horror,Rolfe Kanefsky
+70728,Bronson,Action,Nicolas Winding Refn
+79091,Despicable Me,Animation,Pierre Coffin
+115147,The Best of Me,Drama,Michael Hoffman
+127276,The Invitation,Drama,Karyn Kusama
+98961,Zero Dark Thirty,Drama,Kathryn Bigelow
+81847,Tangled,Animation,Nathan Greno
+135133,The Hunger Games: Mockingjay - Part 2,Action,Francis Lawrence
+136598,Vacation,Adventure,John Francis Daley
+59369,Taken,Action,Pierre Morel
+133419,Pitch Perfect 2,Comedy,Elizabeth Banks
+103141,Monsters University,Animation,Dan Scanlon
+161966,Elle,Crime,Paul Verhoeven
+162322,Mechanic: Resurrection,Action,Dennis Gansel
+114670,Tusk,Comedy,Kevin Smith
+55052,Atonement,Drama,Joe Wright
+81834,Harry Potter and the Deathly Hallows: Part 1,Adventure,David Yates
+90531,Shame,Drama,Steve McQueen
+86190,Hanna,Action,Joe Wright
+149830,Pride and Prejudice and Zombies,Action,Burr Steers
+109673,300: Rise of an Empire,Action,Noam Murro
+152079,London Has Fallen,Action,Babak Najafi
+113573,Sin City: A Dame to Kill For,Action,Frank Miller
+160565,The Purge: Election Year,Action,James DeMonaco
+73881,3 Idiots,Comedy,Rajkumar Hirani
+148888,Zoolander 2,Comedy,Ben Stiller
+103249,World War Z,Action,Marc Forster
+91630,Mission: Impossible - Ghost Protocol,Action,Brad Bird
+173901,Let Me Make You a Martyr,Action,Corey Asraf
+105593,Filth,Comedy,Jon S. Baird
+132424,The Longest Ride,Drama,George Tillman Jr.
+104241,Kick-Ass 2,Action,Jeff Wadlow
+157138,Folk Hero & Funny Guy,Comedy,Jeff Grace
+101112,Oz the Great and Powerful,Adventure,Sam Raimi
+127108,Brooklyn,Drama,John Crowley
+66097,Coraline,Animation,Henry Selick
+78039,Blue Valentine,Drama,Derek Cianfrance
+165635,The Thinning,Thriller,Michael J. Gallagher
+45081,Silent Hill,Adventure,Christophe Gans
+96737,Dredd,Action,Pete Travis
+152970,Hunt for the Wilderpeople,Adventure,Taika Waititi
+115617,Big Hero 6,Animation,Don Hall
+1345,Carrie,Drama,Kimberly Peirce
+77561,Iron Man 2,Action,Jon Favreau
+142222,Demolition,Comedy,Jean-Marc Vallée
+71135,Pandorum,Action,Christian Alvart
+101362,Olympus Has Fallen,Action,
+85056,I Am Number Four,Action,D.J. Caruso
+194508,The Proposal,Comedy,Anne Fletcher
+131013,Get Hard,Comedy,Etan Cohen
+85367,Just Go with It,Comedy,Dennis Dugan
+65130,Revolutionary Road,Drama,Sam Mendes
+130462,The Boy,Horror,William Brent Bell
+165337,Denial,Biography,Mick Jackson
+114935,Predestination,Drama,Michael Spierig
+144620,Goosebumps,Adventure,Rob Letterman
+91542,Sherlock Holmes: A Game of Shadows,Action,Guy Ritchie
+79293,Salt,Action,Phillip Noyce
+108729,Enemy,Mystery,Denis Villeneuve
+70286,District 9,Action,Neill Blomkamp
+55765,American Gangster,Biography,Ridley Scott
+45880,Marie Antoinette,Biography,Sofia Coppola
+72378,2012,Action,Roland Emmerich
+69844,Harry Potter and the Half-Blood Prince,Adventure,David Yates
+97304,Argo,Biography,Ben Affleck
+151455,Eddie the Eagle,Biography,Dexter Fletcher
+166530,Pet,Horror,Carles Torrens
+170793,Paint It Black,Drama,Amber Tamblyn
+32834,Macbeth,Drama,Justin Kurzel
+58998,Forgetting Sarah Marshall,Comedy,Nicholas Stoller
+152061,Triple 9,Action,John Hillcoat
+94959,Moonrise Kingdom,Adventure,Wes Anderson
+2926,Hairspray,Comedy,Adam Shankman
+100527,Safe Haven,Drama,Lasse Hallström
+4871,Focus,Comedy,Glenn Ficarra
+50872,Ratatouille,Animation,Brad Bird
+89072,Stake Land,Drama,Jim Mickle
+57368,Cloverfield,Action,Matt Reeves
+4351,Point Break,Action,Ericson Core
+5150,Under the Skin,Drama,Jonathan Glazer
+56174,I Am Legend,Drama,Francis Lawrence
+87306,Super 8,Mystery,J.J. Abrams
+71838,Law Abiding Citizen,Crime,F. Gary Gray
+68954,Up,Animation,Pete Docter
+133645,Carol,Drama,Todd Haynes
+162828,Imperium,Crime,Daniel Ragussis
+134214,Youth,Comedy,Paolo Sorrentino
+79357,Mr. Nobody,Drama,Jaco Van Dormael
+168262,City of Tiny Lights,Crime,Pete Travis
+56956,Savages,Crime,Oliver Stone
+69757,(500) Days of Summer,Comedy,Marc Webb
+100083,Movie 43,Comedy,Elizabeth Banks
+104841,Gravity,Drama,Alfonso Cuarón
+51935,Shooter,Action,Antoine Fuqua
+133757,The Happening,Sci-Fi,M. Night Shyamalan
+144976,Bone Tomahawk,Adventure,S. Craig Zahler
+137595,Magic Mike XXL,Comedy,Gregory Jacobs
+80549,Easy A,Comedy,Will Gluck
+116887,Exodus: Gods and Kings,Action,Ridley Scott
+120466,Chappie,Action,Neill Blomkamp
+122131,Half of a Yellow Sun,Drama,Biyi Bandele
+161954,Anthropoid,Biography,Sean Ellis
+167698,Viking,Action,Andrey Kravchuk
+152083,Whiskey Tango Foxtrot,Biography,Glenn Ficarra
+1236,Trust,Crime,David Schwimmer
+175671,Birth of the Dragon,Action,George Nolfi
+103253,Elysium,Action,Neill Blomkamp
+133832,The Green Inferno,Adventure,Eli Roth
+1882,Godzilla,Action,Gareth Edwards
+162148,Friend Request,Horror,Simon Verhoeven
+116766,Deja Vu,Action,Tony Scott
+99699,Lucy,Action,Luc Besson
+162726,A Quiet Passion,Biography,Terence Davies
+109850,Need for Speed,Action,Scott Waugh
+99112,Jack Reacher,Action,Christopher McQuarrie
+159441,The Do-Over,Action,Steven Brill
+186001,True Crimes,Crime,Alexandros Avranas
+165441,American Pastoral,Crime,Ewan McGregor
+84152,Limitless,Mystery,Neil Burger
+138212,Spectral,Action,Nic Mathieu
+56941,P.S. I Love You,Drama,Richard LaGravenese
+127132,Zipper,Drama,Mora Stephens
+130576,Midnight Special,Drama,Jeff Nichols
+157268,Don't Think Twice,Comedy,Mike Birbiglia
+1032,Alice in Wonderland,Adventure,Tim Burton
+174887,Chuck,Biography,Philippe Falardeau
+159195,I,Drama,Ken Loach
+111689,Loving,Biography,Jeff Nichols
+34150,Fantastic Four,Action,Josh Trank
+151695,The Survivalist,Drama,Stephen Fingleton
+139857,Colonia,Drama,Florian Gallenberger
+128592,The Boy Next Door,Mystery,Rob Cohen
+140247,The Gift,Mystery,Joel Edgerton
+114795,Dracula Untold,Action,Gary Shore
+117466,In the Heart of the Sea,Action,Ron Howard
+47997,Idiocracy,Adventure,Mike Judge
+101739,Evil Dead,Fantasy,Fede Alvarez
+97188,Sinister,Horror,Scott Derrickson
+97913,Wreck-It Ralph,Animation,Rich Moore
+94780,Snow White and the Huntsman,Action,Rupert Sanders
+127001,Pan,Adventure,Joe Wright
+87520,Transformers: Dark of the Moon,Action,Michael Bay
+56367,Juno,Comedy,Jason Reitman
+158260,A Hologram for the King,Comedy,Tom Tykwer
+157200,Money Monster,Crime,Jodie Foster
+56152,Enchanted,Animation,Kevin Lima
+140110,The Intern,Comedy,Nancy Meyers
+46578,Little Miss Sunshine,Comedy,Jonathan Dayton
+166721,Bleed for This,Biography,Ben Younger
+5540,Clash of the Titans,Action,Louis Leterrier
+151777,The Finest Hours,Action,Craig Gillespie
+2105,Tron,Action,Joseph Kosinski
+106487,The Hunger Games: Catching Fire,Action,Francis Lawrence
+82378,All Good Things,Crime,Andrew Jarecki
+163951,Kickboxer: Vengeance,Action,John Stockwell
+112788,Sex Tape,Comedy,Jake Kasdan
+95199,What to Expect When You're Expecting,Comedy,Kirk Jones
+89492,Moneyball,Biography,Bennett Miller
+51077,Ghost Rider,Action,Mark Steven Johnson
+118702,Unbroken,Biography,Angelina Jolie
