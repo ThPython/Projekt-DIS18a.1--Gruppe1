@@ -18,7 +18,7 @@ Vorgehensweise: Aschraf, bitte hier einfügen.
 Data Preparations Instructions
 
 
-## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
+## Structure of the system (implementation) and data: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 Gephi (Ismail und Gregory)
 Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen oder zumindest sinngemäß ähnliches eintragen.
 
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 
-## Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
+## Outlook: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
 ## Anhang ??? notwendig?
   - Archiv und Glossar
