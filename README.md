@@ -6,6 +6,7 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
 ## Projektbeschreibung und Projektziel:
+
 Vorgehensweise: Aschraf 
 Data Preparations Instructions
 
