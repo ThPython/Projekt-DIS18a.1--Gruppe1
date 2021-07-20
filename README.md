@@ -40,13 +40,13 @@ Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entspreche
 
 This code was tested on a system with the following specifications:
 
-- operating system: ...
-- CPU: ...
-- memory (RAM): ...
-- disk storage: ...
-- GPU: ...
+- operating system: Windows 10
+- CPU: I7-4790k
+- memory (RAM): 24 GB
+- disk storage: 1000 GB
+- GPU: Geforce RTX 3070
 
-The main software requirements are Python...
+The main software requirements are Python, Excel and Gehphi
 
 
 
