@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages- das ist unsere GitHubPage
+[editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/edit/gh-pages/index.md)
 
 # Projekt-DIS18a.1--Gruppe1
 Linked Open Data und Knowledge Graphs
