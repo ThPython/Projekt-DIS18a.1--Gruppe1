@@ -6,18 +6,18 @@ Editor: [editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1
 
 # Projekt-DIS18a.1--Gruppe1
 Linked Open Data und Knowledge Graphs
-Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
+Group Members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
 
-[UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
-## Projektbeschreibung und Projektziel:
-Vorgehensweise: Aschraf 
+## Project description and project goal:
+
+Proceeding: Aschraf 
 Data Preparations Instructions
 ## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
 
 
 
-## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
+## Structure of the system (implementation) and data: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 Gephi (bitte hier)
 Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
 
@@ -58,9 +58,9 @@ pip install -r requirements.txt
 ```
 
 
-## Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
+## Outlook: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
-## Anhang ??? notwendig?
+## Appendix ??? notwendig?
   - Archiv und Glossar
 
 
