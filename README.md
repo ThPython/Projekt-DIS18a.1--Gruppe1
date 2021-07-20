@@ -14,8 +14,22 @@ Furthermore, a recommender system was programmed, which provided us with film su
 The goal was to design and document the work in such a way that it could be reused and further developed.
 
 
-Vorgehensweise: Aschraf, bitte hier einfügen.
-Data Preparations Instructions
+Proceeding: Our group decided to create a recommendation system that recommends movies based on user ratings and the respective genre. 
+
+The idea for this project came from the entertainment platform YouTube. There, videos are suggested based on search histories. We built a Python-based recommendation system that uses the IMDB database. The Internet Movie Database is a database of movies and television shows, and the respective people who worked on them. 
+
+This database consists of thousands of movie records. We have focused on only a subset. More specifically, we focused on a total of 500 titles, directors, and ratings from different users. 
+
+To build an initial prototype, we chose 100 records from the Marvel genre to test our recommender system.
+
+Our prototype should later provide ratings or predictions based on vectors in a matrix, which movies seem to be recommendable. The test corpus should be extended after successful implementation.
+
+In order to establish the relation to knowledge graphs, the individual genres and titles of our dataset were related. The visualization was done by the software Gephi. As preliminary work In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director, could be uniquely assigned.
+
+
+Films of the same type were connected by edges and nodes represent different types. The clustering clearly shows which films are recommended. 
+In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director could be uniquely assigned.
+
 
 
 ## Structure of the system (implementation) and data: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
