@@ -5,7 +5,14 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
-## Projektbeschreibung und Projektziel:
+## Project description and project goal:
+
+In the course of our studies in Data and Information Science at the Th Köln, we created the following project in the summer semester of 2020: DIS - Project "Linked Open Data and Knowledge Graphs". 
+Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
+Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on the same director and the same genre.
+
+The goal was to design and document the work in such a way that it could be reused and further developed.
+
 
 Vorgehensweise: Aschraf, bitte hier einfügen.
 Data Preparations Instructions
