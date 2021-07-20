@@ -14,7 +14,7 @@ Furthermore, a recommender system was programmed, which provided us with film su
 The goal was to design and document the work in such a way that it could be reused and further developed.
 
 
-Proceeding: Our group decided to create a recommendation system that recommends movies based on user ratings and the respective genre. 
+## Proceeding: Our group decided to create a recommendation system that recommends movies based on user ratings and the respective genre. 
 
 The idea for this project came from the entertainment platform YouTube. There, videos are suggested based on search histories. We built a Python-based recommendation system that uses the IMDB database. The Internet Movie Database is a database of movies and television shows, and the respective people who worked on them. 
 
