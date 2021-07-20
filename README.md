@@ -18,11 +18,11 @@ test test
 
 
 
-## Aufbau des Systems (Implementierung)und Daten: Recommeder und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
+## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 
 ## Gephi (bitte hier)
 
-## Hardware and Software Instructions
+## Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
 
 This code was tested on a system with the following specifications:
 
