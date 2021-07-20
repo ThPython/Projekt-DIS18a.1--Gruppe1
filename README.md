@@ -24,11 +24,11 @@ Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entspreche
 
 This code was tested on a system with the following specifications:
 
-- operating system: Ubuntu 16.04.6 LTS
-- CPU: Intel Xeon Silver 4110
-- memory (RAM): 125GB
+- operating system: Windows 10
+- CPU: Intel i5
+- memory (RAM): 16GB
 - disk storage: 500GB
-- GPU: 1x NVIDIA Titan Xp
+- GPU: 1x NVIDIA Titan 
 
 The main software requirements are Python 3.7
 
