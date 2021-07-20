@@ -7,13 +7,13 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
                     
 ## Projektbeschreibung und Projektziel:
 
-Vorgehensweise: Aschraf 
+Vorgehensweise: Aschraf, bitte hier einfügen.
 Data Preparations Instructions
 
 
 ## Aufbau des Systems (Implementierung)und Daten: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
-Gephi (bitte hier)
-Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
+Gephi (Ismail und Gregory)
+Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen oder zumindest sinngemäß ähnliches eintragen.
 
 This code was tested on a system with the following specifications:
 
