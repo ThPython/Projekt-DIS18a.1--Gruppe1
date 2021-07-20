@@ -4,17 +4,18 @@ Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gr
 
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
-# Projektbeschreibung und Projektziel:
+## Projektbeschreibung und Projektziel:
+test test
 
-# Data Preparation Instructions
+## Data Preparation Instructions
 
-# Vorgehensweise: Aschraf 
+##  Vorgehensweise: Aschraf 
 
-# Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
+## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
 
-# Aufbau des Systems (Implemnetierung) und Daten: für Recommeder und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
+## Aufbau des Systems (Implemnetierung) und Daten: für Recommeder und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
 
-# Teams:Hardware and Software Requirements
+## Teams:Hardware and Software Requirements
 (.txt) Installationsanleitung: Gephi und Recommender. pip install etc. Yasin und Eazy, Installationsanteilung inkl. Abhängigkeiten
 
 To install all required  python packages, execute
@@ -23,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 
-# Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
+## Ausblick: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
 
-**Anhang ??? notwendig?
+### Anhang ??? notwendig?
   - Archiv und Glossar
