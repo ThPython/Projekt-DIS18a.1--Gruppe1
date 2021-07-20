@@ -2,7 +2,7 @@
 ## Project_DIS18a.1_Group1_TH Köln, University of Applied Sciences_SS2021, Prof. Dr Konrad Förstner and Dr. Eva Seidlmayer
 
 Linked Open Data und Knowledge Graphs
-Group Members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und [Burghardt Thomas]
+Group Members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und [Burghardt Thomas](Eduardo_thomas@web.de)
 
 Editor: [editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/edit/gh-pages/index.md)
 
