@@ -28,7 +28,7 @@ This code was tested on a system with the following specifications:
 - CPU: Intel i5
 - memory (RAM): 16GB
 - disk storage: 500GB
-- GPU: 1x NVIDIA Titan 
+- GPU: NVIDIA Titan 
 
 The main software requirements are Python 3.7
 
