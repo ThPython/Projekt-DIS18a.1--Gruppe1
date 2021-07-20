@@ -1,6 +1,8 @@
-# Projekt-DIS18a.1--Gruppe1
-Linked Open Data und Knowledge Graphs
-Gruppenmitglieder: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
+# Project-DIS18a.1--Group_1 University of Applied Sciences
+## Course of study: Data and Information Science, Prof. Dr. Konrad Förstner and Dr. Eva Seidlmayer
+## Linked Open Data und Knowledge Graphs
+
+Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
 
 [UnsereGithubPaige](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
                     
