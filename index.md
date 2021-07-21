@@ -21,7 +21,7 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [movie_references.py](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/movie_references.py) Contains our Python code for automating assignments and links to make it readable by the Gephi program.
 
-[recommender_system.ipynb](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/recommender_system.ipynb) Contains tehe recommender system.
+[recommender_system.ipynb](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/recommender_system.ipynb) Contains the recommender system.
 
                     
 ## Project description and project goal
