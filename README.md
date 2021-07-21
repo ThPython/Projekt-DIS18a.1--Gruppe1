@@ -16,7 +16,8 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 [Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv) Sliced 500 dataset raw.
 
 [Unsere_Datei_movieID_serial_ref.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial_ref.csv) Contains Edges or links of the fil-ID's. Readable for Gephi.
-[]()
+
+[Unsere_Ratings.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Ratings.csv) Includes User Id, movieId and ratings for our recommender system.
 
 
                     
