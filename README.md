@@ -38,6 +38,8 @@ In Gehpi, two independent CSV files, a rating file and the film database truncat
 
 ## Data basis
 
+As a dataset we downloaded the most popular 1,000 movies as CSV (IMDB-Movie-Data.csv) from the website "https://www.kaggle.com/PromptCloudHQ/imdb-data". We took from this dataset the first 500 movies and the columns "Title", "Genre" and "Director". For the genres we decided to take only the first named genre, so that in Gephi the visualization does not look too complex. As a next step we added an "ID" column. Using SVERWEIS we assigned each movie the corresponding ID from the MovieLens database, so that we can use the Rating.csv from the MovieLens database for the Recommander system.
+
 ## Gephi
 
 Gephi is a visualization software for all types of graphics. It is open source and free of charge. In our project we used Gephi for a knowledge graph. We chose this software because it is very easy to use. It is very easy to combine two or more values, which is important for the creation of a knowledge graph and was crucial for us. For Gephi, in most cases you read a CSV file that contains the values you want to connect. The software then creates the connections, resulting in a Knowledge Graph.
