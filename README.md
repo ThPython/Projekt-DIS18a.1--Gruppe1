@@ -38,8 +38,6 @@ In Gehpi, two independent CSV files, a rating file and the film database truncat
 
 ## Data basis
 
-As a dataset we downloaded the most popular 1,000 movies as CSV (IMDB-Movie-Data.csv) from the website "https://www.kaggle.com/PromptCloudHQ/imdb-data". We took from this dataset the first 500 movies and the columns "Title", "Genre" and "Director". For the genres we decided to take only the first named genre, so that in Gephi the visualization does not look too complex. As a next step we added an "ID" column. Using SVERWEIS we assigned each movie the corresponding ID from the MovieLens database, so that we can use the Rating.csv from the MovieLens database for the Recommander system.
-
 ## Gephi
 
 Gephi is a visualization software for all types of graphics. It is open source and free of charge. In our project we used Gephi for a knowledge graph. We chose this software because it is very easy to use. It is very easy to combine two or more values, which is important for the creation of a knowledge graph and was crucial for us. For Gephi, in most cases you read a CSV file that contains the values you want to connect. The software then creates the connections, resulting in a Knowledge Graph.
@@ -88,9 +86,11 @@ pip install -r requirements.txt
 
 ## Outlook
 
-For the future we have decided to expand our recommendation system even more.
+In addition to Gephi, NetworkX is also available for visualization.  NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.  NetworkX would be an alternative that we could consider to improve our recommender system.
 
-So far, we have incorporated 500 movie titles, directors and reviews from various users for the recommendation system.  We would like to expand this corpus to be able to create more links in Gephi with the previous data and the additional data.  The more extensive our corpus is, the better we can provide specific results for the user.
+Because so far we have incorporated 500 film titles, directors and ratings from various users for the recommender system.  We would also like to expand this corpus in order to be able to create further connections in Gephi with the previous and the additional data.  The more extensive our corpus, the better we can deliver specific results for the user.
+
+In addition, we would like to incorporate further search criteria.  For example, users should be able to filter their favorite actors or search for the location and year of the film's release.
 
 
 
