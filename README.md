@@ -69,7 +69,7 @@ This code was tested on a system with the following specifications:
 - disk storage: 1000 GB
 - GPU: Geforce RTX 3070
 
-The main software requirements are Python, Excel and Gehphi
+The main software requirements are Python, Excel and Gephi.
 
 
 
