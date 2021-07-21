@@ -6,6 +6,12 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 [OurGithubPage](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
 
 [Workflow/Meetings](https://pad.gwdg.de/Ip1JREDHRsa1HIvDMc_XCA#Pr%C3%BCfungsleistung)
+
+## Data information
+
+[KnowledgeGraph.gephi](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/KnowledgeGraph.gephi)
+
+
                     
 ## Project description and project goal:
 
