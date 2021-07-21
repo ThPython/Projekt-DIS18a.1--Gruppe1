@@ -46,7 +46,7 @@ In addition, our input file, which contains the 500 movies, also contains the as
 Requirements to run the knowledge graph:
 
 - [Gephi](https://gephi.org/users/download/)
-- Java SE Runtime Environment 8
+- [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 - KnowledgeGraph.gephi
 
 This code was tested on a system with the following specifications:
