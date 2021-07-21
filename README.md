@@ -43,7 +43,7 @@ In our Gephi project there are nodes and edges. The nodes are 500 movies from se
 Action, Adventure, Drama, Biography, Animation, Comedy, Crime and Horror.
 In addition, our input file, which contains the 500 movies, also contains the associated genres and the directors of each movie. We used the input file to create our "Our_File_movieID_serial_ref.csv" using our automation code, which we wrote using Python. There are two columns in the "Our_File_movieID_serial_ref.csv" file. The Source and Target columns tell which movies in our Knowledge Graph should be linked together. All movies in this file that have the same genre and director will be linked. These links were created using automation code. The Python codes are located in the two Python files "movie_references.py" and "reorg_df_index_serial.py". After creating the two CSV files, they were imported into Gephi via the data lab. The Knowledge Graph now shows us the movies that have the same director and genre. Edges with a thick arrow are the connection of films with the same director. The thinner lines or connections represent the genre. Our graph is a directed graph with 47558 edges. That means we have 47558 connections at 499 nodes. For the layout we chose the "Fruchterman Reingold" layout, because this layout shows a nice cluster. 
 
-Requierements to run the Knowledge Graph:
+Requirements to run the knowledge graph:
 
 - Gephi
 - Java SE Runtime Environment 8
