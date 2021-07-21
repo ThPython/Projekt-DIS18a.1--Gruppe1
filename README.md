@@ -41,7 +41,7 @@ In Gehpi, two independent CSV files, a rating file and the film database truncat
 ## Data basis
 
 As a data basis serves a Csv file, which we have compiled from various databases. This Csv file is called "Unsere_Datei_movieID.csv". 
-We took the columns "Title", "Genre" and "Director" from the IMDB-Movie-Data.csv, which contains the 1000 most popular movies of the IMDB (https://www.kaggle.com/PromptCloudHQ/imdb-data).
+We took the columns "Title", "Genre" and "Director" from the IMDB-Movie-Data.csv, which contains the 1000 most popular movies of the [IMDB] (https://www.kaggle.com/PromptCloudHQ/imdb-data).
 For the genres, we decided to take only the first mentioned genre so that the visualization in Gephi would not look too complex.
 We cut the dataset to 500 movies, otherwise the resource overhead would be too large.
 
