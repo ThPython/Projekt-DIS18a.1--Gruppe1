@@ -45,7 +45,7 @@ We took the columns "Title", "Genre" and "Director" from the IMDB-Movie-Data.csv
 For the genres, we decided to take only the first mentioned genre so that the visualization in Gephi would not look too complex.
 We cut the dataset to 500 movies, otherwise the resource overhead would be too large.
 
-Since we need user ratings for the recommender system, which the MovieLens database (https://grouplens.org/datasets/movielens/25m/ ) provides, we added an "ID" column to our csv file. Using SVERWEIS we added the corresponding "movieId" from the "movies.csv" of the MovieLens database to each movie.
+Since we need user ratings for the recommender system, which the [MovieLens database](https://grouplens.org/datasets/movielens/25m/) provides, we added an "ID" column to our csv file. Using SVERWEIS we added the corresponding "movieId" from the "movies.csv" of the MovieLens database to each movie.
 Using this ID we can access the userratings from the "ratings.csv" file.   
 
 ## Gephi
