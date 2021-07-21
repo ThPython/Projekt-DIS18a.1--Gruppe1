@@ -51,9 +51,9 @@ This code was tested on a system with the following specifications:
 - memory (RAM): 16GB
 
 
-## Recommender System (bitte ab hier)
+## Recommender System 
 
-Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen.
+Hardware and Software Instructions
 
 
 This code was tested on a system with the following specifications:
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ```
 
 
-## Outlook: 
+## Outlook
 
 For the future we have decided to expand our recommendation system even more.
 
