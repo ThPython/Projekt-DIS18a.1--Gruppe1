@@ -19,6 +19,7 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [Unsere_Ratings.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Ratings.csv) Includes User Id, movieId and ratings for our recommender system.
 
+[movie_references.py](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/movie_references.py) Contains our Python code for automating assignments and links to make it readable by the Gephi program.
 
                     
 ## Project description and project goal:
@@ -28,7 +29,6 @@ Using an imdb dataset, which we trimmed down to 500 films, we visualized individ
 Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on ratings.
 
 The goal is to build a prototype, that based on the ratings and genres, predicts which film is recommended. Also the goal was to design and document the work in such a way that it can be reused and further developed.
-
 
 
 ## Proceeding:
@@ -45,10 +45,8 @@ Our prototype should later provide ratings or predictions based on vectors in a 
 
 In order to establish the relation to knowledge graphs, the individual genres and titles of our dataset were related. The visualization was done by the software Gephi. As preliminary work In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director, could be uniquely assigned.
 
-
 Films of the same type were connected by edges and nodes represent different types. The clustering clearly shows which films are recommended. 
 In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director could be uniquely assigned.
-
 
 
 ## Structure of the system (implementation) and data:
@@ -93,7 +91,6 @@ Only movies that have received at least 100 ratings are recommended.
 After running the program, the user has the possibility to enter a movie again for which recommendations should be provided. As soon as the user enters "exit" as a movie name, the loop is terminated. 
 
 
-
 This code was tested on a system with the following specifications:
 
 - operating system: Windows 10
@@ -105,7 +102,6 @@ This code was tested on a system with the following specifications:
 The main software requirements are Python, Excel and Gephi.
 
 
-
 ## Hardware and Software Requirements
 (.txt) Installationsanleitung:
 
@@ -113,7 +109,6 @@ To install all required  python packages, execute
 ```
 pip install -r requirements.txt
 ```
-
 
 ## Outlook
 
