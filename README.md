@@ -13,8 +13,7 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [Unsere_Datei_movieID.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID.csv) Contains our movies, genres, directors and their ID`s.
 
-[Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv)
-
+[Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv) Sliced 500 dataset raw.
 
 []()
 []()
