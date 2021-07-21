@@ -84,10 +84,8 @@ For the future we have decided to expand our recommendation system even more.
 So far, we have incorporated 500 movie titles, directors and reviews from various users for the recommendation system.  We would like to expand this corpus to be able to create more links in Gephi with the previous data and the additional data.  The more extensive our corpus is, the better we can provide specific results for the user.
 
 
-## Anhang ??? notwendig?
-  - Archiv und Glossar
 
-## Übersichtsgraphik??? Wer kann? Evtl. MIttwochvormittag
+## Übersichtsgraphik
 
 
 
