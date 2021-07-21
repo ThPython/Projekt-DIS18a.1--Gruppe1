@@ -6,18 +6,34 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 [OurGithubPage](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
 
 [Workflow/Meetings](https://pad.gwdg.de/Ip1JREDHRsa1HIvDMc_XCA#Pr%C3%BCfungsleistung)
+
+## Data information
+
+[KnowledgeGraph.gephi](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/KnowledgeGraph.gephi) Our Gephi project file with corresponding knowledge graphs.
+
+[Unsere_Datei_movieID.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID.csv) Contains movieID, title, genre and director and their ID for our recommender system.
+
+[Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv) Sliced 500 dataset raw. For gephi.
+
+[Unsere_Datei_movieID_serial_ref.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial_ref.csv) Contains Edges or links of the film-ID's. Readable for Gephi.
+
+[Unsere_Ratings.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Ratings.csv) Includes User Id, movieId and ratings for our recommender system.
+
+[movie_references.py](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/movie_references.py) Contains our Python code for automating assignments and links to make it readable by the Gephi program.
+
+[recommender_system.ipynb](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/recommender_system.ipynb) Contains tehe recommender system.
+
                     
-## Project description and project goal:
+## Project description and project goal
 
 In the course of our studies in Data and Information Science at the University of Applied Sciences Cologne, we created the following project in the summer semester of 2020: DIS - Project "Linked Open Data and Knowledge Graphs". 
 Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
 Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on ratings.
 
-The goal is to build a prototype that, based on the ratings and generes, predicts which film is recommended. Also the goal was to design and document the work in such a way that it can be reused and further developed.
+The goal is to build a prototype, that based on the ratings and genres, predicts which film is recommended. Also the goal was to design and document the work in such a way that it can be reused and further developed.
 
 
-
-## Proceeding:
+## Proceeding
 
 Our group decided to create a recommender system that recommends movies based on user ratings and the respective genre. 
 
@@ -31,13 +47,11 @@ Our prototype should later provide ratings or predictions based on vectors in a 
 
 In order to establish the relation to knowledge graphs, the individual genres and titles of our dataset were related. The visualization was done by the software Gephi. As preliminary work In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director, could be uniquely assigned.
 
-
 Films of the same type were connected by edges and nodes represent different types. The clustering clearly shows which films are recommended. 
 In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director could be uniquely assigned.
 
 
-
-## Structure of the system (implementation) and data:
+## Structure of the system (implementation) and data
 
 ## Data basis
 
@@ -74,10 +88,10 @@ This code was tested on a system with the following specifications:
 ## Recommender System 
 
 The goal was to program a recommender system that gives movie recommendations for a movie entered by the user. To build our recommender system we chose Jupyter Notebook, which is included with the installation of [Anaconda](https://www.anaconda.com/products/individual). However, any Python program can be used. The installation of Anaconda is free of charge.
+
 The Recommender System recommends movies based on userratings, which are included in the MovieLens dataset. To recommend a movie, the program calculates the correlation of the ratings of all users of the entered movie to the ratings of all movies in the dataset. 
 Only movies that have received at least 100 ratings are recommended.
 After running the program, the user has the possibility to enter a movie again for which recommendations should be provided. As soon as the user enters "exit" as a movie name, the loop is terminated. 
-
 
 
 This code was tested on a system with the following specifications:
@@ -91,15 +105,14 @@ This code was tested on a system with the following specifications:
 The main software requirements are Python, Excel and Gephi.
 
 
-
 ## Hardware and Software Requirements
-(.txt) Installationsanleitung: Gephi und Recommender. 
+
+(.txt) Installationsanleitung:
 
 To install all required  python packages, execute
 ```
 pip install -r requirements.txt
 ```
-
 
 ## Outlook
 
@@ -108,3 +121,8 @@ In addition to Gephi, NetworkX is also available for visualization.  NetworkX is
 Because so far we have incorporated 500 film titles, directors and ratings from various users for the recommender system.  We would also like to expand this corpus in order to be able to create further connections in Gephi with the previous and the additional data.  The more extensive our corpus, the better we can deliver specific results for the user.
 
 In addition, we would like to incorporate further search criteria.  For example, users should be able to filter their favorite actors or search for the location and year of the film's release. Furthermore, we could think about an extension by means of [People2Vec](https://github.com/People2Vec).
+
+
+
+
+
