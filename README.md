@@ -9,7 +9,11 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 ## Data information
 
-[KnowledgeGraph.gephi](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/KnowledgeGraph.gephi)
+[KnowledgeGraph.gephi](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/KnowledgeGraph.gephi) Our Gephi project file with corresponding knowledge graphs.
+[]()
+[]()
+[]()
+[]()
 
 
                     
