@@ -50,7 +50,7 @@ Using this ID we can access the userratings from the "ratings.csv" file.
 
 ## Gephi
 
-Gephi is a visualization software for all types of graphics. It is open source and free of charge. In our project we used Gephi for a knowledge graph. We chose this software because it is very easy to use. It is very easy to combine two or more values, which is important for the creation of a knowledge graph and was crucial for us. For Gephi, in most cases you read a CSV file that contains the values you want to connect. The software then creates the connections, resulting in a Knowledge Graph.
+Gephi is a visualization software for all types of graphics. It is open source and free of charge. In our project we used Gephi for a knowledge graph. We chose this software because it is very easy to use. It is very easy to combine two or more values, which is important for the creation of a knowledge graph and was crucial for us. For Gephi, in most cases you read two CSV files that contains the values you want to connect. The software then creates the connections, resulting in a Knowledge Graph.
 
 In our Gephi project there are nodes and edges. The nodes are 500 movies from several genres. The different genres are as follows:
 Action, Adventure, Drama, Biography, Animation, Comedy, Crime and Horror.
