@@ -91,7 +91,7 @@ So far, we have incorporated 500 movie titles, directors and reviews from variou
 
 
 
-Original from GitHub
+## Original from GitHub
 
 
 You can use the [editor on GitHub](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
