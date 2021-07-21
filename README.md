@@ -18,9 +18,9 @@ The goal was to design and document the work in such a way, that it could be reu
 
 ## Proceeding:
 
- Our group decided to create a recommendation system that recommends movies based on user ratings and the respective genre. 
+Our group decided to create a recommender system that recommends movies based on user ratings and the respective genre. 
 
-The idea for this project came from the entertainment platform YouTube. There, videos are suggested based on search histories. We built a Python-based recommendation system that uses the IMDB database. The Internet Movie Database is a database of movies and television shows, and the respective people who worked on them. 
+The idea for this project came from the entertainment platform YouTube. There, videos are suggested based on search histories. We built a Python-based recommender system that uses the IMDB database. The Internet Movie Database is a database of movies and television shows, and the respective people who worked on them. 
 
 This database consists of thousands of movie records. We have focused on only a subset. More specifically, we focused on a total of 500 titles, directors, and ratings from different users. 
 
@@ -72,7 +72,11 @@ This code was tested on a system with the following specifications:
 
 ## Recommender System 
 
-Hardware and Software Instructions
+The goal was to program a recommender system that gives movie recommendations for a movie entered by the user. To build our recommender system we chose Jupyter Notebook, which is included with the installation of [Anaconda](https://www.anaconda.com/products/individual). However, any Python program can be used. The installation of Anaconda is free of charge.
+The Recommender System recommends movies based on userratings, which are included in the MovieLens dataset. To recommend a movie, the program calculates the correlation of the ratings of all users of the entered movie to the ratings of all movies in the dataset. 
+Only movies that have received at least 100 ratings are recommended.
+After running the program, the user has the possibility to enter a movie again for which recommendations should be provided. As soon as the user enters "exit" as a movie name, the loop is terminated. 
+
 
 
 This code was tested on a system with the following specifications:
