@@ -4,6 +4,7 @@
 Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregory Köskeroglu, Luca Miliziano, Parsa Sarabian und Burghardt Thomas.
 
 [OurGithubPage](https://thpython.github.io/Projekt-DIS18a.1--Gruppe1/)
+
 [Workflow/Meetings](https://pad.gwdg.de/Ip1JREDHRsa1HIvDMc_XCA#Pr%C3%BCfungsleistung)
                     
 ## Project description and project goal:
