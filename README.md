@@ -30,7 +30,7 @@ In the course of our studies in Data and Information Science at the University o
 Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
 Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on ratings.
 
-The goal was to build a prototype, which is based on ratings and predicts what kind of film is recommended. Also the goal was to design and document the work in such a way that it can be reused and further developed.
+The goal was to build a prototype, which is based on ratings and predicts what kind of film is recommended. Furthermore we wanted to design and document the work in such a way that it can be reused and further developed.
 
 
 ## Proceeding
