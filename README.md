@@ -11,11 +11,11 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [KnowledgeGraph.gephi](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/KnowledgeGraph.gephi) Our Gephi project file with corresponding knowledge graphs.
 
-[Unsere_Datei_movieID.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID.csv) Contains our movies, genres, directors and their ID`s.
+[Unsere_Datei_movieID.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID.csv) Contains movieID, title, genre and director and their ID for our recommender system.
 
-[Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv) Sliced 500 dataset raw.
+[Unsere_Datei_movieID_serial.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial.csv) Sliced 500 dataset raw. For gephi.
 
-[Unsere_Datei_movieID_serial_ref.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial_ref.csv) Contains Edges or links of the fil-ID's. Readable for Gephi.
+[Unsere_Datei_movieID_serial_ref.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Datei_movieID_serial_ref.csv) Contains Edges or links of the film-ID's. Readable for Gephi.
 
 [Unsere_Ratings.csv](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/Unsere_Ratings.csv) Includes User Id, movieId and ratings for our recommender system.
 
