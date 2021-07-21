@@ -11,7 +11,7 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 In the course of our studies in Data and Information Science at the University of Applied Sciences Cologne, we created the following project in the summer semester of 2020: DIS - Project "Linked Open Data and Knowledge Graphs". 
 Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
-Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on ratings, we found at movielens.
+Furthermore, a recommender system was programmed, which provided us with film suggestions. Based on ratings.
 
 The goal was to design and document the work in such a way, that it could be reused and further developed.
 
