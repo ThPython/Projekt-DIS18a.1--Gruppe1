@@ -85,7 +85,5 @@ So far, we have incorporated 500 movie titles, directors and reviews from variou
 
 
 
-## Übersichtsgraphik
-
 
 
