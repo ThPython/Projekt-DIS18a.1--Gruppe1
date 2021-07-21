@@ -34,19 +34,21 @@ In Gehpi, two independent CSV files, a rating file and the film database truncat
 
 
 
-## Structure of the system (implementation) and data: Recommender und Gephi. Jedes Team für sich, bitte! Voraussetzungen Hardware und Software.
-Gephi (Ismail und Gregory)
-Hardware and Software Instructions--> Das sind nur Platzhalter. Bitte entsprechend ausfüllen oder zumindest sinngemäß ähnliches eintragen.
+## Structure of the system (implementation) and data:
+
+## Gephi
+
+Gephi is a visualization software for all types of graphics. It is open source and free of charge. In our project we used Gephi for a knowledge graph. We chose this software because it is very easy to use. It is very easy to combine two or more values, which is important for the creation of a knowledge graph and was crucial for us. For Gephi, in most cases you read a CSV file that contains the values you want to connect. The software then creates the connections, resulting in a Knowledge Graph.
+In our Gephi project there are nodes and edges. The nodes are 500 movies from several genres. The different genres are as follows:
+Action, Adventure, Drama, Biography, Animation, Comedy, Crime and Horror.
+In addition, our input file, which contains the 500 movies, also contains the associated genres and the directors of each movie. We used the input file to create our "Our_File_movieID_serial_ref.csv" using our automation code, which we wrote using Python. There are two columns in the "Our_File_movieID_serial_ref.csv" file. The Source and Target columns tell which movies in our Knowledge Graph should be linked together. All movies in this file that have the same genre and director will be linked. These links were created using automation code. The Python codes are located in the two Python files "movie_references.py" and "reorg_df_index_serial.py". After creating the two CSV files, they were imported into Gephi via the data lab. The Knowledge Graph now shows us the movies that have the same director and genre. Edges with a thick arrow are the connection of films with the same director. The thinner lines or connections represent the genre. Our graph is a directed graph with 47558 edges. That means we have 47558 connections at 499 nodes. For the layout we chose the "Fruchterman Reingold" layout, because this layout shows a nice cluster. 
+
 
 This code was tested on a system with the following specifications:
 
 - operating system: Windows 10
 - CPU: Intel i5
 - memory (RAM): 16GB
-- disk storage: 500GB
-- GPU: NVIDIA Titan 
-
-The main software requirements are Python 3.7
 
 
 ## Recommender System (bitte ab hier)
