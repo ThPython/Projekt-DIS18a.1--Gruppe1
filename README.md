@@ -92,7 +92,7 @@ In addition to Gephi, NetworkX is also available for visualization.  NetworkX is
 
 Because so far we have incorporated 500 film titles, directors and ratings from various users for the recommender system.  We would also like to expand this corpus in order to be able to create further connections in Gephi with the previous and the additional data.  The more extensive our corpus, the better we can deliver specific results for the user.
 
-In addition, we would like to incorporate further search criteria.  For example, users should be able to filter their favorite actors or search for the location and year of the film's release.
+In addition, we would like to incorporate further search criteria.  For example, users should be able to filter their favorite actors or search for the location and year of the film's release. Furthermore, we could think about an extension by means of [People2Vec](https://github.com/People2Vec)
 
 
 
