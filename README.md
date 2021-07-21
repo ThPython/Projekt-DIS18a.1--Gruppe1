@@ -21,8 +21,10 @@ Group members: Aschraf Aouina, Ismail Arda, Felix Borgmann, Yasin Gevrek, Gregor
 
 [movie_references.py](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/movie_references.py) Contains our Python code for automating assignments and links to make it readable by the Gephi program.
 
+[recommender_system.ipynb](https://github.com/ThPython/Projekt-DIS18a.1--Gruppe1/blob/main/recommender_system.ipynb) Contains tehe recommender system.
+
                     
-## Project description and project goal:
+## Project description and project goal
 
 In the course of our studies in Data and Information Science at the University of Applied Sciences Cologne, we created the following project in the summer semester of 2020: DIS - Project "Linked Open Data and Knowledge Graphs". 
 Using an imdb dataset, which we trimmed down to 500 films, we visualized individual links between films belonging to the same director and the same genre with the help of the program Gephi.
@@ -31,7 +33,7 @@ Furthermore, a recommender system was programmed, which provided us with film su
 The goal is to build a prototype, that based on the ratings and genres, predicts which film is recommended. Also the goal was to design and document the work in such a way that it can be reused and further developed.
 
 
-## Proceeding:
+## Proceeding
 
 Our group decided to create a recommender system that recommends movies based on user ratings and the respective genre. 
 
@@ -49,7 +51,7 @@ Films of the same type were connected by edges and nodes represent different typ
 In Gehpi, two independent CSV files, a rating file and the film database truncated to 500 records, were linked via an inner joint so that film, genre and director could be uniquely assigned.
 
 
-## Structure of the system (implementation) and data:
+## Structure of the system (implementation) and data
 
 ## Data basis
 
@@ -86,6 +88,7 @@ This code was tested on a system with the following specifications:
 ## Recommender System 
 
 The goal was to program a recommender system that gives movie recommendations for a movie entered by the user. To build our recommender system we chose Jupyter Notebook, which is included with the installation of [Anaconda](https://www.anaconda.com/products/individual). However, any Python program can be used. The installation of Anaconda is free of charge.
+
 The Recommender System recommends movies based on userratings, which are included in the MovieLens dataset. To recommend a movie, the program calculates the correlation of the ratings of all users of the entered movie to the ratings of all movies in the dataset. 
 Only movies that have received at least 100 ratings are recommended.
 After running the program, the user has the possibility to enter a movie again for which recommendations should be provided. As soon as the user enters "exit" as a movie name, the loop is terminated. 
@@ -103,6 +106,7 @@ The main software requirements are Python, Excel and Gephi.
 
 
 ## Hardware and Software Requirements
+
 (.txt) Installationsanleitung:
 
 To install all required  python packages, execute
