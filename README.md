@@ -77,7 +77,7 @@ The main software requirements are Python, Excel and Gephi.
 
 
 
-## Team: Hardware and Software Requirements
+## Hardware and Software Requirements
 (.txt) Installationsanleitung: Gephi und Recommender. pip install etc. Yasin und Eazy, Installationsanteilung inkl. Abhängigkeiten
 
 To install all required  python packages, execute
